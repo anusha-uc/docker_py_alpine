@@ -1,1 +1,1 @@
-# docker_py_alpine
+# docker exercise to build and run the image
